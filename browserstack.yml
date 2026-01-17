@@ -1,0 +1,19 @@
+userName: damilyaamangeldy_nceXJ2
+accessKey: NKWzrjoykyT7Egcy8ycv
+framework: true
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 120.0
+  - os: OS X
+    osVersion: Monterey
+    browserName: Chrome
+    browserVersion: latest
+  - deviceName: iPhone 13
+    osVersion: 15
+    browserName: Chromium
+    deviceOrientation: portrait
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
